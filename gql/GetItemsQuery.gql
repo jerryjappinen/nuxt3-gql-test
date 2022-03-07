@@ -1,7 +1,0 @@
-#import "./ItemFull.gql"
-
-query GetItemsQuery {
-  items {
-    ...ItemFull
-  }
-}

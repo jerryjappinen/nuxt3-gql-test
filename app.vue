@@ -1,5 +1,5 @@
 <script>
-import GetItemsQuery from './gql/GetItemsQuery.gql'
+import GetItemsQuery from './GetItemsQuery.gql'
 
 export default {
 
