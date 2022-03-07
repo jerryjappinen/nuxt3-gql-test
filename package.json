@@ -6,6 +6,7 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "nuxt3": "latest"
+    "@rollup/plugin-graphql": "^1.1.0",
+    "nuxt3": "^3.0.0-27444434.856c01a"
   }
 }

@@ -1,0 +1,7 @@
+
+fragment ItemFull on Item {
+  __typename
+  id
+  title
+  description
+}
